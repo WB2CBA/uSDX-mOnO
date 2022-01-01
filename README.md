@@ -1,0 +1,1 @@
+uSDX mOnO is a single band SDR all mode HF transceiver covering 80m through 10m HF bands. Although it is classified as a single band HF transceiver in reality it can be used in more than a single band by swapping LPF Band modules which are plug in band specific Low pass filter modules. These modules give uSDX mOnO a multiband HF Transceiver capability.
